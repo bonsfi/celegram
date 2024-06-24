@@ -30,7 +30,7 @@ sudo apt install git -y
 
 ```sh
 cd ~
-git clone TODO
+git clone https://github.com/bonsfi/celegram.git
 cd celegram
 
 # copy the corresponding binary to a system folder set in the PATH
